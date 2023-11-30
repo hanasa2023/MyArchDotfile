@@ -1,0 +1,29 @@
+2023-11-13 01:44:29.760 [info] 日志级别: Info
+2023-11-13 01:44:29.760 [info] 正在验证在以下位置找到的 git: "git"
+2023-11-13 01:44:29.760 [info] 将使用位于 "2.42.0" 的 Git "git"
+2023-11-13 01:44:29.760 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-13 01:44:29.760 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.770 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-13 01:44:29.770 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.780 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-13 01:44:29.780 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.793 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-13 01:44:29.793 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.934 [info] > git rev-parse --show-toplevel [40ms]
+2023-11-13 01:44:29.934 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.950 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-13 01:44:29.950 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.958 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-13 01:44:29.958 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.965 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-13 01:44:29.965 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.972 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-13 01:44:29.972 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.979 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-13 01:44:29.980 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.990 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-13 01:44:29.990 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:29.998 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-13 01:44:29.998 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git
+2023-11-13 01:44:30.010 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-13 01:44:30.010 [info] 致命错误：不是 git 仓库（或者任何父目录）：.git

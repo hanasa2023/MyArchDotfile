@@ -1,0 +1,5 @@
+2023-11-13 01:47:55.742 [info] update#setState idle
+2023-11-13 01:48:25.732 [info] update#setState checking for updates
+2023-11-13 01:48:25.735 [info] update#setState available for download
+2023-11-13 01:48:45.255 [info] Extension host with pid 22147 exited with code: 0, signal: unknown.
+2023-11-13 01:48:48.430 [info] Extension host with pid 22283 exited with code: 0, signal: unknown.

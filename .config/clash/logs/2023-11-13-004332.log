@@ -1,0 +1,35 @@
+00:43:32 INF [Config] initial compatible provider name=Auto-Edge
+00:43:32 INF [Config] initial compatible provider name=Auto
+00:43:32 INF [Config] initial compatible provider name=Proxy
+00:43:32 INF [Config] initial compatible provider name=Express
+00:43:32 INF [Config] initial compatible provider name=Video
+00:43:32 INF [Config] initial compatible provider name=Auto-Failover
+00:43:32 INF [Config] initial compatible provider name=Auto-Fast
+00:43:32 INF [Config] initial compatible provider name=Scholar
+00:43:32 INF [Config] initial compatible provider name=Netflix
+00:43:32 INF [Config] initial compatible provider name=Steam
+00:43:32 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+00:43:32 INF [API] listening addr=127.0.0.1:33023
+00:43:32 INF [Config] initial compatible provider name=故障转移
+00:43:32 INF [Config] initial compatible provider name=自动选择
+00:43:32 INF [Config] initial compatible provider name=节点选择
+00:43:32 INF [DNS] server listening addr=127.0.0.1:8853
+00:43:47 INF [TCP] connected lAddr=127.0.0.1:50176 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:47 INF [TCP] connected lAddr=127.0.0.1:50184 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:48 INF [TCP] connected lAddr=127.0.0.1:50186 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:49 INF [TCP] connected lAddr=127.0.0.1:50200 rAddr=schemastore.org:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:50 INF [TCP] connected lAddr=127.0.0.1:50202 rAddr=www.schemastore.org:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:51 INF [TCP] connected lAddr=127.0.0.1:50218 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:43:51 INF [TCP] connected lAddr=127.0.0.1:50228 rAddr=dl.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:43:52 INF [TCP] connected lAddr=127.0.0.1:50244 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:43:54 INF [TCP] connected lAddr=127.0.0.1:39838 rAddr=developer.android.com:443 mode=rule rule=DomainSuffix(android.com) proxy=节点选择[香港18]
+00:43:58 INF [TCP] connected lAddr=127.0.0.1:39842 rAddr=dl.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:44:04 INF [TCP] connected lAddr=127.0.0.1:48270 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:45:21 INF [TCP] connected lAddr=127.0.0.1:43608 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:45:21 INF [TCP] connected lAddr=127.0.0.1:43618 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:45:22 INF [TCP] connected lAddr=127.0.0.1:43630 rAddr=doki.assets.unthrottled.io:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:50:06 INF [TCP] connected lAddr=127.0.0.1:53218 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:50:14 INF [TCP] connected lAddr=127.0.0.1:56620 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港18]
+00:50:15 INF [TCP] connected lAddr=127.0.0.1:56632 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]
+00:50:15 INF [TCP] connected lAddr=127.0.0.1:56648 rAddr=developer.android.com:443 mode=rule rule=DomainSuffix(android.com) proxy=节点选择[香港18]
+00:50:17 INF [TCP] connected lAddr=127.0.0.1:56654 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港18]

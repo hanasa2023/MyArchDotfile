@@ -1,0 +1,24 @@
+files:
+  - url: ""
+    time: 1698955723063.yml
+    name: config.yaml
+    selected: []
+  - time: 1698955738041.yml
+    name: glados.rocks/2969709268@qq.com
+    url: https://update.glados-config.com/clash/214512/0d4cc90/128116/glados.yaml
+    selected: []
+    interval: 12
+    subInfo:
+      upload: 1
+      download: 14692531247
+      total: 536870912000
+      expire: 1721001656
+    homeWeb: https://glados.rocks
+  - time: 1698955764242.yml
+    name: ""
+    url: https://efanyun.me/clash/347086/abYgFDJ3f3/
+    selected: []
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+index: 2

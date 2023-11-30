@@ -1,0 +1,151 @@
+00:58:07 INF [Config] initial compatible provider name=Auto
+00:58:07 INF [Config] initial compatible provider name=Scholar
+00:58:07 INF [Config] initial compatible provider name=Video
+00:58:07 INF [Config] initial compatible provider name=Steam
+00:58:07 INF [Config] initial compatible provider name=Auto-Failover
+00:58:07 INF [Config] initial compatible provider name=Auto-Fast
+00:58:07 INF [Config] initial compatible provider name=Proxy
+00:58:07 INF [Config] initial compatible provider name=Express
+00:58:07 INF [Config] initial compatible provider name=Netflix
+00:58:07 INF [Config] initial compatible provider name=Auto-Edge
+00:58:07 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+00:58:07 INF [API] listening addr=127.0.0.1:46829
+00:58:08 INF [Config] initial compatible provider name=节点选择
+00:58:08 INF [Config] initial compatible provider name=故障转移
+00:58:08 INF [Config] initial compatible provider name=自动选择
+00:58:08 INF [DNS] server listening addr=127.0.0.1:8853
+00:58:14 INF [TCP] connected lAddr=127.0.0.1:50240 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[新加坡10]
+00:58:17 INF [TCP] connected lAddr=127.0.0.1:50258 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:58:17 INF [TCP] connected lAddr=127.0.0.1:50250 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:58:18 INF [TCP] connected lAddr=127.0.0.1:50276 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:58:18 INF [TCP] connected lAddr=127.0.0.1:50260 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:58:18 INF [TCP] connected lAddr=127.0.0.1:50286 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:58:18 INF [TCP] connected lAddr=127.0.0.1:50290 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:58:28 INF [TCP] connected lAddr=127.0.0.1:51592 rAddr=www.appicon.co:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:58:28 INF [TCP] connected lAddr=127.0.0.1:51596 rAddr=www.appicon.co:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:58:29 INF [TCP] connected lAddr=127.0.0.1:51602 rAddr=www.appicon.co:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:58:29 INF [TCP] connected lAddr=127.0.0.1:50622 rAddr=www.appicon.co:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:58:30 INF [TCP] connected lAddr=127.0.0.1:50652 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+00:58:30 INF [TCP] connected lAddr=127.0.0.1:50638 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+00:58:30 INF [TCP] connected lAddr=127.0.0.1:50660 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:58:39 INF [TCP] connected lAddr=127.0.0.1:33540 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33546 rAddr=ocsp.digicert.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33612 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33582 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33576 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33598 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33570 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33560 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33626 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33636 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:58:40 INF [TCP] connected lAddr=127.0.0.1:33640 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+00:58:41 INF [TCP] connected lAddr=127.0.0.1:33644 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33686 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33658 rAddr=aegis.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33670 rAddr=aegis.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33688 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33716 rAddr=aegis.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:42 INF [TCP] connected lAddr=127.0.0.1:33704 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:58:43 INF [TCP] connected lAddr=127.0.0.1:33724 rAddr=v.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:58:44 INF [TCP] connected lAddr=127.0.0.1:33732 rAddr=ocsp.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[新加坡10]
+00:58:44 INF [TCP] connected lAddr=127.0.0.1:33740 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[新加坡10]
+00:59:13 INF [TCP] connected lAddr=127.0.0.1:38034 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38044 rAddr=edgedl.me.gvt1.com:80 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38056 rAddr=update.googleapis.com:80 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38060 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38066 rAddr=aegis.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38070 rAddr=edgedl.me.gvt1.com:80 mode=rule rule=Match() proxy=节点选择[新加坡10]
+00:59:14 INF [TCP] connected lAddr=127.0.0.1:38084 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:15 INF [TCP] connected lAddr=127.0.0.1:38094 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:59:19 INF [TCP] connected lAddr=127.0.0.1:38110 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:25 INF [TCP] connected lAddr=127.0.0.1:48200 rAddr=aegis.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:26 INF [TCP] connected lAddr=127.0.0.1:48210 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:26 INF [TCP] connected lAddr=127.0.0.1:48214 rAddr=wj.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:59:26 INF [TCP] connected lAddr=127.0.0.1:48226 rAddr=thirdqq.qlogo.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:26 INF [TCP] connected lAddr=127.0.0.1:48238 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[新加坡10]
+00:59:36 INF [TCP] connected lAddr=127.0.0.1:40432 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:36 INF [TCP] connected lAddr=127.0.0.1:40442 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:59:37 INF [TCP] connected lAddr=127.0.0.1:40444 rAddr=id.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:39 INF [TCP] connected lAddr=127.0.0.1:60184 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+00:59:40 INF [TCP] connected lAddr=127.0.0.1:60188 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:40 INF [TCP] connected lAddr=127.0.0.1:60198 rAddr=ocsp.digicert.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60210 rAddr=ssl.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60224 rAddr=pingjs.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60254 rAddr=qqminiapp.cdn-go.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60226 rAddr=qqminiapp.cdn-go.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60232 rAddr=qqminiapp.cdn-go.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60242 rAddr=qqminiapp.cdn-go.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60266 rAddr=ocsp.digicert.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:41 INF [TCP] connected lAddr=127.0.0.1:60282 rAddr=captcha.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:59:42 INF [TCP] connected lAddr=127.0.0.1:60284 rAddr=qq-mini-app-1251316161.cos.ap-guangzhou.myqcloud.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+00:59:42 INF [TCP] connected lAddr=127.0.0.1:60294 rAddr=captcha.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+00:59:46 INF [TCP] connected lAddr=127.0.0.1:60310 rAddr=t.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:46 INF [TCP] connected lAddr=127.0.0.1:60296 rAddr=h.trace.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:47 INF [TCP] connected lAddr=127.0.0.1:60320 rAddr=t.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:47 INF [TCP] connected lAddr=127.0.0.1:60328 rAddr=t.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:47 INF [TCP] connected lAddr=127.0.0.1:60324 rAddr=t.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:49 INF [TCP] connected lAddr=127.0.0.1:60340 rAddr=qqminiapp.cdn-go.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+00:59:49 INF [TCP] connected lAddr=127.0.0.1:55662 rAddr=t.captcha.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:51 INF [TCP] connected lAddr=127.0.0.1:55676 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+00:59:51 INF [TCP] connected lAddr=127.0.0.1:55690 rAddr=passwordsleakcheck-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42612 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42614 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42630 rAddr=q.qlogo.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42600 rAddr=tdesign.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42636 rAddr=ocsp.digicert.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:00:12 INF [TCP] connected lAddr=127.0.0.1:42662 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[新加坡10]
+01:00:13 INF [TCP] connected lAddr=127.0.0.1:42646 rAddr=bot-resource-1251316161.file.myqcloud.com:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:00:13 INF [TCP] connected lAddr=127.0.0.1:42664 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:14 INF [TCP] connected lAddr=127.0.0.1:42680 rAddr=ocsp.usertrust.com:80 mode=rule rule=Domain(ocsp.usertrust.com) proxy=节点选择[新加坡10]
+01:00:15 INF [TCP] connected lAddr=127.0.0.1:42684 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:49988 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:49992 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:50000 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:50004 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:50018 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:50026 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:20 INF [TCP] connected lAddr=127.0.0.1:50042 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:21 INF [TCP] connected lAddr=127.0.0.1:50056 rAddr=bot-resource-1251316161.cos.ap-guangzhou.myqcloud.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:00:21 INF [TCP] connected lAddr=127.0.0.1:50070 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:21 INF [TCP] connected lAddr=127.0.0.1:50076 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:27 INF [TCP] connected lAddr=127.0.0.1:50090 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:38 INF [TCP] connected lAddr=127.0.0.1:49834 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:38 INF [TCP] connected lAddr=127.0.0.1:49818 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:38 INF [TCP] connected lAddr=127.0.0.1:49848 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:39 INF [TCP] connected lAddr=127.0.0.1:49852 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:39 INF [TCP] connected lAddr=127.0.0.1:49864 rAddr=node.video.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:39 INF [TCP] connected lAddr=127.0.0.1:49880 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:39 INF [TCP] connected lAddr=127.0.0.1:49866 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[新加坡10]
+01:00:48 INF [TCP] connected lAddr=127.0.0.1:52802 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:48 INF [TCP] connected lAddr=127.0.0.1:52806 rAddr=bot.q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:00:54 INF [TCP] connected lAddr=127.0.0.1:50050 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+01:00:54 INF [TCP] connected lAddr=127.0.0.1:38094 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:01:28 INF [TCP] connected lAddr=127.0.0.1:56668 rAddr=groupprohead.gtimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:02:22 INF [TCP] connected lAddr=127.0.0.1:59820 rAddr=wj-assets.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+01:02:23 INF [TCP] connected lAddr=127.0.0.1:59828 rAddr=wj.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+01:02:34 INF [TCP] connected lAddr=127.0.0.1:47028 rAddr=wj.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:02:40 INF [TCP] connected lAddr=127.0.0.1:59250 rAddr=wj.gtimg.com:443 mode=rule rule=DomainSuffix(gtimg.com) proxy=DIRECT
+01:03:29 INF [TCP] connected lAddr=127.0.0.1:35312 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:03:42 INF [TCP] connected lAddr=127.0.0.1:60302 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40310 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40368 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40300 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40332 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40316 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40342 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:03:53 INF [TCP] connected lAddr=127.0.0.1:40352 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:04:31 INF [TCP] connected lAddr=127.0.0.1:38108 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:04:37 INF [TCP] connected lAddr=127.0.0.1:38120 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:04:48 INF [TCP] connected lAddr=127.0.0.1:45070 rAddr=gitee.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:49 INF [TCP] connected lAddr=127.0.0.1:45098 rAddr=dl.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[新加坡10]
+01:04:49 INF [TCP] connected lAddr=127.0.0.1:45084 rAddr=com-store-packages.uniontech.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:49 INF [TCP] connected lAddr=127.0.0.1:50920 rAddr=app-store-files.uniontech.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:50 INF [TCP] connected lAddr=127.0.0.1:50928 rAddr=dldir1.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+01:04:50 INF [TCP] connected lAddr=127.0.0.1:50938 rAddr=redirector.gvt1.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:50 INF [TCP] connected lAddr=127.0.0.1:50924 rAddr=foruda.gitee.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:51 INF [TCP] connected lAddr=127.0.0.1:50942 rAddr=r2---sn-ni5een7l.gvt1.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+01:04:52 INF [TCP] connected lAddr=127.0.0.1:50944 rAddr=update.code.visualstudio.com:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:04:54 INF [TCP] connected lAddr=127.0.0.1:50964 rAddr=wps-linux-personal.wpscdn.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:04:55 INF [TCP] connected lAddr=127.0.0.1:50952 rAddr=az764295.vo.msecnd.net:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:08:33 INF [TCP] connected lAddr=127.0.0.1:52172 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]
+01:08:47 INF [TCP] connected lAddr=127.0.0.1:40250 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[新加坡10]

@@ -1,0 +1,178 @@
+23:28:08 INF [Config] initial compatible provider name=Auto-Failover
+23:28:08 INF [Config] initial compatible provider name=Auto-Edge
+23:28:08 INF [Config] initial compatible provider name=Proxy
+23:28:08 INF [Config] initial compatible provider name=Scholar
+23:28:08 INF [Config] initial compatible provider name=Steam
+23:28:08 INF [Config] initial compatible provider name=Auto-Fast
+23:28:08 INF [Config] initial compatible provider name=Auto
+23:28:08 INF [Config] initial compatible provider name=Express
+23:28:08 INF [Config] initial compatible provider name=Video
+23:28:08 INF [Config] initial compatible provider name=Netflix
+23:28:08 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+23:28:08 INF [API] listening addr=127.0.0.1:41729
+23:28:08 INF [Config] initial compatible provider name=节点选择
+23:28:08 INF [Config] initial compatible provider name=故障转移
+23:28:08 INF [Config] initial compatible provider name=自动选择
+23:28:08 INF [DNS] server listening addr=127.0.0.1:8853
+23:28:23 INF [TCP] connected lAddr=127.0.0.1:52404 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港20]
+23:28:26 INF [TCP] connected lAddr=127.0.0.1:52434 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:28:26 INF [TCP] connected lAddr=127.0.0.1:52418 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:28:26 INF [TCP] connected lAddr=127.0.0.1:52440 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:28:26 INF [TCP] connected lAddr=127.0.0.1:52456 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50512 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50516 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50532 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50540 rAddr=ocsp.digicert.com:80 mode=rule rule=DomainSuffix(digicert.com) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50556 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50564 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50570 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50578 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50590 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50586 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50602 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50572 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50618 rAddr=ocsp.digicert.com:80 mode=rule rule=DomainSuffix(digicert.com) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50646 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50630 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50638 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50670 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50660 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:35 INF [TCP] connected lAddr=127.0.0.1:50684 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:36 INF [TCP] connected lAddr=127.0.0.1:50688 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:36 INF [TCP] connected lAddr=127.0.0.1:50700 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:36 INF [TCP] connected lAddr=127.0.0.1:50704 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+23:28:37 INF [TCP] connected lAddr=127.0.0.1:50734 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+23:28:37 INF [TCP] connected lAddr=127.0.0.1:50718 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+23:28:37 INF [TCP] connected lAddr=127.0.0.1:50730 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+23:28:37 INF [TCP] connected lAddr=127.0.0.1:50756 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:37 INF [TCP] connected lAddr=127.0.0.1:50766 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:28:42 INF [TCP] connected lAddr=127.0.0.1:50744 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:28:52 INF [TCP] connected lAddr=127.0.0.1:46648 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:29:23 INF [TCP] connected lAddr=127.0.0.1:48180 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:29:23 INF [TCP] connected lAddr=127.0.0.1:48186 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:31:13 INF [TCP] connected lAddr=127.0.0.1:45820 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+23:31:13 INF [TCP] connected lAddr=127.0.0.1:48186 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:39:20 INF [TCP] connected lAddr=127.0.0.1:52718 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:42:27 INF [TCP] connected lAddr=127.0.0.1:44394 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:42:27 INF [TCP] connected lAddr=127.0.0.1:44398 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:42:27 INF [TCP] connected lAddr=127.0.0.1:44414 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:42:33 INF [TCP] connected lAddr=127.0.0.1:48712 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:42:34 INF [TCP] connected lAddr=127.0.0.1:48728 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:43:33 INF [TCP] connected lAddr=127.0.0.1:42308 rAddr=nodejs.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:43:37 INF [TCP] connected lAddr=127.0.0.1:42318 rAddr=iojs.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:43:50 WRN [TCP] dial failed error=cn01.efan.men:8720 connect error: dial tcp4 120.233.27.189:8720: i/o timeout proxy=节点选择 lAddr=127.0.0.1:60856 rAddr=nodejs.org:443 rule=Match rulePayload=
+23:43:51 INF [TCP] connected lAddr=127.0.0.1:60866 rAddr=nodejs.org:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:46:40 INF [TCP] connected lAddr=127.0.0.1:40080 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:46:45 INF [TCP] connected lAddr=127.0.0.1:47292 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:46:49 INF [TCP] connected lAddr=127.0.0.1:47298 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:46:55 INF [TCP] connected lAddr=127.0.0.1:49680 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:46:58 INF [TCP] connected lAddr=127.0.0.1:49686 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:47:03 INF [TCP] connected lAddr=127.0.0.1:52654 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:47:09 INF [TCP] connected lAddr=127.0.0.1:52670 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:47:18 INF [TCP] connected lAddr=127.0.0.1:38534 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港20]
+23:47:32 INF [TCP] connected lAddr=127.0.0.1:39840 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:47:34 INF [TCP] connected lAddr=127.0.0.1:39842 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:47:38 INF [TCP] connected lAddr=127.0.0.1:39850 rAddr=ogs.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:47:38 INF [TCP] connected lAddr=127.0.0.1:39864 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港20]
+23:47:43 INF [TCP] connected lAddr=127.0.0.1:46904 rAddr=zhuanlan.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:43 INF [TCP] connected lAddr=127.0.0.1:46912 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+23:47:44 INF [TCP] connected lAddr=127.0.0.1:46924 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:44 INF [TCP] connected lAddr=127.0.0.1:46932 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:45 INF [TCP] connected lAddr=127.0.0.1:46980 rAddr=sugar.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:45 INF [TCP] connected lAddr=127.0.0.1:46966 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:45 INF [TCP] connected lAddr=127.0.0.1:46994 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+23:47:45 INF [TCP] connected lAddr=127.0.0.1:47006 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+23:47:49 WRN [TCP] dial failed error=dial tcp4 113.5.183.106:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:46930 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:49 WRN [TCP] dial failed error=dial tcp4 111.206.208.102:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:46944 rAddr=hm.baidu.com:443 rule=DomainKeyword rulePayload=baidu
+23:47:49 INF [TCP] connected lAddr=127.0.0.1:47096 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+23:47:49 WRN [TCP] dial failed error=dial tcp4 221.211.234.89:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:46954 rAddr=unpkg.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:50 WRN [TCP] dial failed error=dial tcp4 42.59.17.48:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:46960 rAddr=zz.bdstatic.com:443 rule=DomainSuffix rulePayload=bdstatic.com
+23:47:50 WRN [TCP] dial failed error=dial tcp4 139.209.207.101:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47012 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:50 INF [TCP] connected lAddr=127.0.0.1:47108 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+23:47:51 WRN [TCP] dial failed error=dial tcp4 218.7.119.134:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47034 rAddr=pica.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 101.72.249.41:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47018 rAddr=pic3.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 139.209.207.101:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47042 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 139.209.207.100:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47054 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 139.209.207.100:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47076 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 139.209.207.100:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47062 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 1.188.1.239:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47078 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 113.5.183.106:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47084 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:51 WRN [TCP] dial failed error=dial tcp4 221.211.234.82:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47090 rAddr=cstaticdun.126.net:443 rule=DomainSuffix rulePayload=126.net
+23:47:54 WRN [TCP] dial failed error=dial tcp4 113.5.183.105:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47092 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:54 WRN [TCP] dial failed error=dial tcp4 221.211.234.85:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47098 rAddr=unpkg.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:55 WRN [TCP] dial failed error=dial tcp4 42.59.17.48:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47102 rAddr=zz.bdstatic.com:443 rule=DomainSuffix rulePayload=bdstatic.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 221.207.117.6:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47130 rAddr=pica.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 101.72.249.41:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47116 rAddr=pic3.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 139.209.207.100:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47142 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 139.209.207.101:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47132 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 139.209.207.101:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47156 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 139.209.207.101:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47170 rAddr=picx.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 1.188.1.243:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47178 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 113.5.183.108:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47192 rAddr=pic1.zhimg.com:443 rule=DomainSuffix rulePayload=zhimg.com
+23:47:56 WRN [TCP] dial failed error=dial tcp4 221.211.234.80:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47204 rAddr=cstaticdun.126.net:443 rule=DomainSuffix rulePayload=126.net
+23:48:02 INF [TCP] connected lAddr=127.0.0.1:40134 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+23:48:13 INF [TCP] connected lAddr=127.0.0.1:54912 rAddr=developer.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:48:13 INF [TCP] connected lAddr=127.0.0.1:54914 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[香港20]
+23:48:14 INF [TCP] connected lAddr=127.0.0.1:54924 rAddr=g.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:14 INF [TCP] connected lAddr=127.0.0.1:54958 rAddr=g.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:14 INF [TCP] connected lAddr=127.0.0.1:54952 rAddr=g.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:14 INF [TCP] connected lAddr=127.0.0.1:54938 rAddr=g.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55058 rAddr=at.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55064 rAddr=at.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55070 rAddr=g.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55082 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55084 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55090 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55102 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:15 INF [TCP] connected lAddr=127.0.0.1:55110 rAddr=fourier.taobao.com:443 mode=rule rule=DomainKeyword(taobao) proxy=DIRECT
+23:48:16 INF [TCP] connected lAddr=127.0.0.1:55112 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:16 INF [TCP] connected lAddr=127.0.0.1:55124 rAddr=log.mmstat.com:443 mode=rule rule=DomainSuffix(mmstat.com) proxy=REJECT
+23:48:19 WRN [TCP] dial failed error=dial tcp4 218.8.164.92:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:54972 rAddr=img.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 INF [TCP] connected lAddr=127.0.0.1:55126 rAddr=img.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:19 WRN [TCP] dial failed error=dial tcp4 218.8.164.91:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:54978 rAddr=img.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 INF [TCP] connected lAddr=127.0.0.1:55132 rAddr=img.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:19 WRN [TCP] dial failed error=dial tcp4 1.189.99.71:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:54986 rAddr=ucc.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 WRN [TCP] dial failed error=dial tcp4 218.61.164.191:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55002 rAddr=alinw.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 WRN [TCP] dial failed error=dial tcp4 1.56.96.122:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55014 rAddr=cloud-assets.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 INF [TCP] connected lAddr=127.0.0.1:55134 rAddr=ucc.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:19 WRN [TCP] dial failed error=dial tcp4 218.8.164.84:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55024 rAddr=yqfile.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 WRN [TCP] dial failed error=dial tcp4 1.56.96.122:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55036 rAddr=oneconsole.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 WRN [TCP] dial failed error=dial tcp4 218.61.164.190:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55050 rAddr=retcode.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:19 INF [TCP] connected lAddr=127.0.0.1:55142 rAddr=alinw.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:48:19 WRN [TCP] dial failed error=dial tcp4 221.211.234.85:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:54980 rAddr=www.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:19 WRN [TCP] dial failed error=dial tcp4 140.205.135.3:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55034 rAddr=ucc.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:24 WRN [TCP] dial failed error=dial tcp4 1.56.96.123:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55146 rAddr=cloud-assets.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:24 WRN [TCP] dial failed error=dial tcp4 218.8.164.81:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55148 rAddr=yqfile.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:24 WRN [TCP] dial failed error=dial tcp4 1.56.96.122:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55152 rAddr=oneconsole.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:24 WRN [TCP] dial failed error=dial tcp4 218.61.164.190:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55162 rAddr=retcode.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:24 WRN [TCP] dial failed error=dial tcp4 221.211.234.81:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55178 rAddr=www.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:24 WRN [TCP] dial failed error=dial tcp4 140.205.135.3:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55186 rAddr=ucc.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:30 WRN [TCP] dial failed error=dial tcp4 106.11.249.99:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34240 rAddr=ucc.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:30 INF [TCP] connected lAddr=127.0.0.1:34284 rAddr=ucc.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:48:30 WRN [TCP] dial failed error=dial tcp4 110.242.68.3:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34248 rAddr=sp0.baidu.com:443 rule=DomainKeyword rulePayload=baidu
+23:48:30 INF [TCP] connected lAddr=127.0.0.1:34298 rAddr=sp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+23:48:30 WRN [TCP] dial failed error=dial tcp4 203.119.145.39:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34250 rAddr=query.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:30 WRN [TCP] dial failed error=dial tcp4 47.96.32.255:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34262 rAddr=one-second-campaign.cn-hangzhou.log.aliyuncs.com:443 rule=GeoIP rulePayload=CN
+23:48:30 WRN [TCP] dial failed error=dial tcp4 106.11.249.99:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34270 rAddr=ucc.aliyun.com:443 rule=GeoIP rulePayload=CN
+23:48:30 INF [TCP] connected lAddr=127.0.0.1:34306 rAddr=one-second-campaign.cn-hangzhou.log.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:48:30 INF [TCP] connected lAddr=127.0.0.1:34304 rAddr=query.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:48:30 INF [TCP] connected lAddr=127.0.0.1:34324 rAddr=aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:48:35 WRN [TCP] dial failed error=dial tcp4 218.8.164.83:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:34322 rAddr=img.alicdn.com:443 rule=DomainKeyword rulePayload=alicdn
+23:48:35 INF [TCP] connected lAddr=127.0.0.1:41138 rAddr=img.alicdn.com:443 mode=rule rule=DomainKeyword(alicdn) proxy=DIRECT
+23:54:16 INF [TCP] connected lAddr=127.0.0.1:49686 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:54:17 INF [TCP] connected lAddr=127.0.0.1:49702 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:54:18 INF [TCP] connected lAddr=127.0.0.1:49698 rAddr=search.koishi.chat:443 mode=rule rule=Match() proxy=节点选择[香港20]
+23:56:09 INF [Config] initial compatible provider name=Auto-Failover
+23:56:09 INF [Config] initial compatible provider name=Auto-Fast
+23:56:09 INF [Config] initial compatible provider name=Auto
+23:56:09 INF [Config] initial compatible provider name=Proxy
+23:56:09 INF [Config] initial compatible provider name=Video
+23:56:09 INF [Config] initial compatible provider name=Auto-Edge
+23:56:09 INF [Config] initial compatible provider name=Express
+23:56:09 INF [Config] initial compatible provider name=Steam
+23:56:09 INF [Config] initial compatible provider name=Netflix
+23:56:09 INF [Config] initial compatible provider name=Scholar
+23:57:03 INF [Config] initial compatible provider name=故障转移
+23:57:03 INF [Config] initial compatible provider name=自动选择
+23:57:03 INF [Config] initial compatible provider name=节点选择
+23:57:03 INF [DNS] server listening addr=127.0.0.1:8853

@@ -1,0 +1,21 @@
+00:56:51 INF [Config] initial compatible provider name=Video
+00:56:51 INF [Config] initial compatible provider name=Auto-Failover
+00:56:51 INF [Config] initial compatible provider name=Auto-Fast
+00:56:51 INF [Config] initial compatible provider name=Steam
+00:56:51 INF [Config] initial compatible provider name=Netflix
+00:56:51 INF [Config] initial compatible provider name=Scholar
+00:56:51 INF [Config] initial compatible provider name=Auto-Edge
+00:56:51 INF [Config] initial compatible provider name=Auto
+00:56:51 INF [Config] initial compatible provider name=Proxy
+00:56:51 INF [Config] initial compatible provider name=Express
+00:56:51 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+00:56:51 INF [API] listening addr=127.0.0.1:34319
+00:56:51 INF [Config] initial compatible provider name=自动选择
+00:56:51 INF [Config] initial compatible provider name=节点选择
+00:56:51 INF [Config] initial compatible provider name=故障转移
+00:56:51 INF [DNS] server listening addr=127.0.0.1:8853
+01:00:03 INF [TCP] connected lAddr=127.0.0.1:40794 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港13]
+01:00:04 INF [TCP] connected lAddr=127.0.0.1:42642 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港13]
+01:00:04 INF [TCP] connected lAddr=127.0.0.1:42658 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港13]
+01:00:05 INF [TCP] connected lAddr=127.0.0.1:42664 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港13]
+01:00:05 INF [TCP] connected lAddr=127.0.0.1:42670 rAddr=plugins.jetbrains.com:443 mode=rule rule=Match() proxy=节点选择[香港13]

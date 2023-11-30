@@ -1,0 +1,14 @@
+2023-11-13 01:36:59.575 [info] Getting Manifest... manasxx.background-cover
+2023-11-13 01:36:59.601 [info] Installing extension: manasxx.background-cover
+2023-11-13 01:37:06.330 [warning] Extension signature verification failed with error 'UnknownError': manasxx.background-cover
+2023-11-13 01:37:06.409 [info] Extracted extension to file:///home/hanasa/.vscode/extensions/manasxx.background-cover-2.3.5: manasxx.background-cover
+2023-11-13 01:37:06.500 [info] Renamed to /home/hanasa/.vscode/extensions/manasxx.background-cover-2.3.5
+2023-11-13 01:37:06.503 [info] Extracting extension completed. manasxx.background-cover
+2023-11-13 01:37:06.526 [info] Extension installed successfully: manasxx.background-cover
+2023-11-13 01:37:06.547 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hanasa/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hanasa/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async X.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

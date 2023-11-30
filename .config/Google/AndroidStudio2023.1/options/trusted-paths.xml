@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/HelloAndroid" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/helloworld" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/untitled1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

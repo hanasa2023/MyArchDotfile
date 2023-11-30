@@ -1,0 +1,46 @@
+01:43:07 INF [Config] initial compatible provider name=Auto-Failover
+01:43:07 INF [Config] initial compatible provider name=Proxy
+01:43:07 INF [Config] initial compatible provider name=Steam
+01:43:07 INF [Config] initial compatible provider name=Scholar
+01:43:07 INF [Config] initial compatible provider name=Netflix
+01:43:07 INF [Config] initial compatible provider name=Auto-Edge
+01:43:07 INF [Config] initial compatible provider name=Auto-Fast
+01:43:07 INF [Config] initial compatible provider name=Auto
+01:43:07 INF [Config] initial compatible provider name=Express
+01:43:07 INF [Config] initial compatible provider name=Video
+01:43:07 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+01:43:07 INF [API] listening addr=127.0.0.1:44445
+01:43:08 INF [Config] initial compatible provider name=节点选择
+01:43:08 INF [Config] initial compatible provider name=故障转移
+01:43:08 INF [Config] initial compatible provider name=自动选择
+01:43:08 INF [DNS] server listening addr=127.0.0.1:8853
+01:43:29 INF [TCP] connected lAddr=127.0.0.1:41194 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港19]
+01:43:29 INF [TCP] connected lAddr=127.0.0.1:41186 rAddr=login.vivaldi.net:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:32 INF [TCP] connected lAddr=127.0.0.1:57484 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:43:32 INF [TCP] connected lAddr=127.0.0.1:57482 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:43:32 INF [TCP] connected lAddr=127.0.0.1:57510 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:43:32 INF [TCP] connected lAddr=127.0.0.1:57500 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:43:33 INF [TCP] connected lAddr=127.0.0.1:57532 rAddr=unpkg.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:33 INF [TCP] connected lAddr=127.0.0.1:57548 rAddr=netlify-rum.netlify.app:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:33 INF [TCP] connected lAddr=127.0.0.1:57558 rAddr=unpkg.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57588 rAddr=login.vivaldi.net:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57612 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57616 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57632 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57518 rAddr=schnitzel.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57596 rAddr=ingesteer.services-prod.nsvcs.net:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57530 rAddr=www.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57582 rAddr=www.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:34 INF [TCP] connected lAddr=127.0.0.1:57574 rAddr=www.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:35 INF [TCP] connected lAddr=127.0.0.1:57644 rAddr=ocsp.r2m01.amazontrust.com:80 mode=rule rule=DomainKeyword(amazon) proxy=节点选择[香港19]
+01:43:36 INF [TCP] connected lAddr=127.0.0.1:57656 rAddr=avatar.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:36 INF [TCP] connected lAddr=127.0.0.1:57678 rAddr=avatar.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:36 INF [TCP] connected lAddr=127.0.0.1:57664 rAddr=avatar.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:37 INF [TCP] connected lAddr=127.0.0.1:57692 rAddr=schnitzel.stefanjudis.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:43:39 INF [TCP] connected lAddr=127.0.0.1:57708 rAddr=bifrost.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港19]
+01:43:39 INF [TCP] connected lAddr=127.0.0.1:52866 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=节点选择[香港19]
+01:47:29 INF [TCP] connected lAddr=127.0.0.1:54456 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:47:29 INF [TCP] connected lAddr=127.0.0.1:54452 rAddr=update.code.visualstudio.com:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:47:30 INF [TCP] connected lAddr=127.0.0.1:54440 rAddr=docs.flutter.dev:443 mode=rule rule=Match() proxy=节点选择[香港19]
+01:47:31 INF [TCP] connected lAddr=127.0.0.1:54462 rAddr=storage.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港19]
+01:47:31 INF [TCP] connected lAddr=127.0.0.1:54468 rAddr=marketplace.visualstudio.com:443 mode=rule rule=Match() proxy=节点选择[香港19]

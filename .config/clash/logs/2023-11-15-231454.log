@@ -1,0 +1,16 @@
+23:14:54 INF [Config] initial compatible provider name=Auto-Failover
+23:14:54 INF [Config] initial compatible provider name=Steam
+23:14:54 INF [Config] initial compatible provider name=Netflix
+23:14:54 INF [Config] initial compatible provider name=Auto-Edge
+23:14:54 INF [Config] initial compatible provider name=Auto-Fast
+23:14:54 INF [Config] initial compatible provider name=Auto
+23:14:54 INF [Config] initial compatible provider name=Express
+23:14:54 INF [Config] initial compatible provider name=Proxy
+23:14:54 INF [Config] initial compatible provider name=Video
+23:14:54 INF [Config] initial compatible provider name=Scholar
+23:14:54 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+23:14:54 INF [API] listening addr=127.0.0.1:41983
+23:14:54 INF [Config] initial compatible provider name=故障转移
+23:14:54 INF [Config] initial compatible provider name=自动选择
+23:14:54 INF [Config] initial compatible provider name=节点选择
+23:14:54 INF [DNS] server listening addr=127.0.0.1:8853

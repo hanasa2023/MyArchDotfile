@@ -1,0 +1,89 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "Darcula.SavedEditorTheme": "_@user_Darcula",
+    "Default.SavedEditorTheme": "_@user_Default",
+    "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1699128248962",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "doki\ndok\ndo\nd",
+    "MarketplacePluginsSearchHistory": "tok\nto\nt\npink\npin",
+    "NewProjectWizard.gitState": "false",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SAVED_ANDROID_PACKAGE": "com.example",
+    "SettingsSearchHistory": "sdk\nsettings\nhelp",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "android.sdk.path": "/home/hanasa/Android/Sdk",
+    "appcds.runOnSecondStart": "AI-223.8836.35.2231.10811636-3004447c2fb469b908bfadd6919f213f92dfb27484b424b7bef94a1103b7ee35",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "AI-223.8836.35.2231.10811636",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Kotlin",
+    "defaultJdkConfigured": "true",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "20.0",
+    "fontSizeToResetEditor": "20.0",
+    "gotit.previous.run": "AI-223.8836.35.2231.10811636",
+    "idea.background.editor": "/home/hanasa/Pictures/Mygo/4286Soyo-Nagasaki-Happy-The-Calm-Mediator-7B3cl3.png,15,scale,center",
+    "ideavim.statistics.timestamp": "1699124713626",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "223-1.9.0-release-358-AS8836.35.2231.10811636",
+    "io.flutter.analytics.clientId": "f2719b9b-4922-456f-b08e-a5e955e6bc31",
+    "io.flutter.analytics.toastShown": "true",
+    "io.flutter.console.preferencesSet": "true",
+    "jdk.selected.JAVA_MODULE": "Android API 34, extension level 7 Platform",
+    "kotlin.lastUpdateCheck": "1699137873135",
+    "kotlin.updates.whats.new.shown.for": "1.9.0",
+    "last_opened_file_path": "/home/hanasa/flutter",
+    "newly.installed.api.level": "31",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "previousColorScheme": "_@user_TokyoNightStorm",
+    "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
+    "registry.to.advanced.settings.migration.build": "AI-223.8836.35.2231.10811636",
+    "selected.color.option.type": "LINE_NUMBERS_COLOR",
+    "studio.activity.count": "2",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "FLUTTER_SDK_KNOWN_PATHS": [
+      "/home/hanasa/flutter"
+    ],
+    "file.chooser.recent.files": [
+      "/home/hanasa/flutter",
+      "/home/hanasa/Pictures/Mygo/4286Soyo-Nagasaki-Happy-The-Calm-Mediator-7B3cl3.png"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ],
+    "kotlin-gradle-user-dirs": [
+      "/home/hanasa/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;Kotlin&quot;: 1698999423697,
+    &quot;InjectSQLLanguage&quot;: 1698999421948,
+    &quot;Kotlin_mix&quot;: 1699124822578,
+    &quot;Kotlin_Java_convert&quot;: 1698999424616,
+    &quot;Kotlin_project&quot;: 1699124819257
+  }
+}</component>
+</application>

@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/images/128.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_extButtonTitle__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "http://team.firefoxcn.net",
+   "icons": {
+      "128": "assets/images/128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjRbTvcjuqnuuvuvVKwMOCPWvvdBMNxq18N0cWtBPXXck5xKt4Hg/MW7QCKCvjucl/V6CJe4UynecJlK6E2FEEkrjS+OE4ofrL2abU68cfu/Vd8Lp7H33TEYtHwAZYCm/03My1BlX0xq1HcNeRMPJ1I4fOiRwsSyGcOcEfQqdIuVA8IlH6DJTQTG/Fv1iB9GRJ4yzIC0U8vW1m1CH+CiyPUNmS6f9F8gNgV3SNqWl+UHrFWYc1wWX762mKz7tDz3D2tZFDiiiblhHEFtA7bIvic7EihDVVnzkVkr3K/U/sYA8ZbewOq0NNaMvHw6snTIH+l73Chr5edJBTvDeX5njnQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "contextMenus", "storage", "downloads", "*://*/*", "unlimitedStorage" ],
+   "short_name": "__MSG_extName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1.1"
+}

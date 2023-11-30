@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="/css/app-style.css" rel="stylesheet" />
+    <script src="scripts/analytics.js"></script>
+</head> 
+<style type="text/css">
+    .bg-theme1 {
+       background: rgb(2,0,36);
+background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    }
+    .menu-links{
+        margin: 10px;
+    }
+    .container{
+        width: 500px;
+    }
+    .cc-btn{
+        margin: 5px !important;
+        width: 90%;
+    }
+    .cc-btn2{
+        margin: 5px !important;
+        width: 90%;
+    }
+    .vl {
+        border-left: 3px solid #ffffff;
+        height: 300px;
+        padding: 5px;
+    }
+    h4{    appearance: auto;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+  
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+   
+    border-image: initial;}
+</style>
+
+
+
+<body class="bg-theme1">
+    <div class="card text-center" style="width: 500px;">
+        <div class="card-header">
+            <center>
+                <a href="https://www.cardgenerator.org/" target="_blank">
+                    <img src="logo.png" class="img-fluid" alt="VCCGenerator Logo" style="max-width: 10% !important;">
+                </a>
+
+            </center>
+            <td colspan="3">
+              <hr>
+            <center>NOTE:<i>  Click on a card to generate with more details.</i></center>
+              <hr>
+          </td>
+        </div>
+        <div class="card-body">
+            <table>
+                <tr>
+                    <td>
+                        <center>
+                            <p>CARDs</p>
+                        </center>
+                        <hr>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="visacardgenerator">VISA</h4>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="mastercardgenerator">MASTERCARD</h4>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="amexcardgenerator">AMEX</h4>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="jcbcardgenerator">JCB</h4>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="discovercardgenerator">DISCOVER</h4>
+                        <h4 class="btn btn-success btn-block text-white cc-btn2" id="dinersclubcardgenerator">DINERS CLUB</h4>
+                    </td>
+                    <td>
+                        <div class="vl"></div>
+                    </td>
+                    <td>
+                        <center>
+                            <p>GENERATED NUMBERS</p>
+                        </center>
+                        <hr>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/genme.js" type="text/javascript"></script></h4>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/mastercard.js" type="text/javascript"></script></h4>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/amex.js" type="text/javascript"></script></h4>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/jcb.js" type="text/javascript"></script></h4>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/discover.js" type="text/javascript"></script></h4>
+                        <h4 class="btn btn-light btn-block text-white cc-btn2" ><script src="/scripts/diners.js" type="text/javascript"></script></h4>       
+                    </td>
+                </tr>
+               
+
+            </table>
+        </div>
+
+
+        <div class="card-body">
+            <table>
+                <tr>
+                    <td>
+                        <center>
+                            <p>CREDIT CARD GENERATOR</p>
+                        </center>
+                        <hr>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="visacardgenerator2">VISA</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="mastercardgenerator2">MASTERCARD</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="amexcardgenerator2">AMEX</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="jcbcardgenerator2">JCB</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="discovercardgenerator2">DISCOVER</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="dinersclubcardgenerator2">DINERS CLUB</button>
+                    </td>
+                    <td>
+                        <div class="vl"></div>
+                    </td>
+                    <td>
+                        <center>
+                            <p>BULK CARD GENERATOR</p>
+                        </center>
+                        <hr>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkvisagenerator">VISA</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkmastercardgenerator">MASTERCARD</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkamexgenerator">AMEX</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkjcbgenerator">JCB</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkdiscovergenerator">DISCOVER</button>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="bulkdinersclubgenerator">DINERS CLUB</button>       
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <hr>
+                        <center>
+                            <p>MORE TOOLS</p>
+                        </center>
+                        <hr>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="binchecker">BIN CHECKER</button>
+                    </td>
+                    <td></td>
+                    <td>
+                        <button class="btn btn-success btn-block text-white cc-btn" id="binsearch">BIN SEARCH</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <button id="creditcardvalidator" class="btn btn-success btn-block text-white cc-btn">CREDIT CARD VALIDATOR</button>
+                    </td>
+                </tr>
+                
+            </table>
+        </div>
+    </div>
+</div>
+<script src="/scripts/jquery.min.js" type="text/javascript"></script>
+<script src="/scripts/extension.js" type="text/javascript"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+   "description": "Sunlit Peacocks: By Daniel Barreto",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAneeSBtDm4qoITtBJqrY3ENiUcNX1Eiy7vBQVqrhJAtzpLunLk1cChYeQPmpRaPk1GR6ZlhCcUW2UCdhpYccOdSduQzaIE08HvMJODyvXtowBfaOtkxTN5W1dkU7FkyloyeMeN845CtEznr0QxqeA5NT9FsEHx9OHtiJmApQePXDAg3Iy5/vFI3YqQf5SzetC3zcQGt/3ltpR+QAEvn+jFVUgAtUOA3byfhWBG6jJwOZQmu/z5mKXkph+z/9mM4dRqch8tF5w3Mwh6+IYJ1e8o15lIG8tdonJcmo10BuWMOO1F3WSoN9z+ViQXDDJ6hN/mxV4jv+Tu67EXc9N5E7VrwIDAQAB",
+   "manifest_version": 3,
+   "name": "Sunlit Peacocks",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 222, 149, 167 ],
+         "ntp_background": [ 230, 119, 147 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 241, 209, 218 ]
+      },
+      "images": {
+         "theme_ntp_background": "sunlit_peacocks_1366x768.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "repeat-x",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ 1, 1, 1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

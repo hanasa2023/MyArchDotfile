@@ -1,0 +1,8 @@
+[Error - 1:08:34 AM] Request textDocument/documentColor failed.
+  Message: File is not being analyzed
+  Code: -32007 
+/home/hanasa/AndroidStudioProjects/happy_birthday/lib/main.dart
+[Error - 1:08:34 AM] Request textDocument/inlayHint failed.
+  Message: File is not being analyzed
+  Code: -32007 
+/home/hanasa/AndroidStudioProjects/happy_birthday/lib/main.dart

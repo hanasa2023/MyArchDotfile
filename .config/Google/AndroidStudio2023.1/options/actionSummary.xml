@@ -1,0 +1,229 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1699141950537" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1699190447378" />
+    </e>
+    <e n="Android.DeviceManager">
+      <i c="1" l="1699138314281" />
+    </e>
+    <e n="Android.DeviceManager2">
+      <i c="2" l="1699140632351" />
+    </e>
+    <e n="Android.ExportProjectZip">
+      <i c="1" l="1699138335339" />
+    </e>
+    <e n="Android.RunAndroidSdkManager">
+      <i c="1" l="1699137813955" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="8" l="1699323504897" />
+    </e>
+    <e n="CallSaul">
+      <i c="2" l="1699136860238" />
+    </e>
+    <e n="ClassNameCompletion">
+      <i c="6" l="1699169471144" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="4" l="1699322862211" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1074" l="1699323723189" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="206" l="1699323723939" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="3" l="1699321713471" />
+    </e>
+    <e n="EditorDown">
+      <i c="65" l="1699323090744" />
+    </e>
+    <e n="EditorEnter">
+      <i c="237" l="1699323719595" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1699320963383" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1699319527420" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="3" l="1699322678484" />
+    </e>
+    <e n="EditorTab">
+      <i c="9" l="1699322227955" />
+    </e>
+    <e n="EditorUp">
+      <i c="16" l="1699321539895" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1699138363738" />
+    </e>
+    <e n="ExportToHTML">
+      <i c="1" l="1699138321114" />
+    </e>
+    <e n="GoogleLogin.LoginService">
+      <i c="1" l="1699124828065" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="6" l="1698999905362" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="3" l="1699009290573" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1699162991806" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1699137863045" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1699164672850" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1699140411258" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1699164544995" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="2" l="1699320087009" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1699162994877" />
+    </e>
+    <e n="Run">
+      <i c="23" l="1699323732239" />
+    </e>
+    <e n="SaveAll">
+      <i c="131" l="1699323726457" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1699000031847" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1699320098010" />
+    </e>
+    <e n="ShowLog">
+      <i c="2" l="1699136194306" />
+    </e>
+    <e n="ShowSettings">
+      <i c="36" l="1699162875763" />
+    </e>
+    <e n="Stop">
+      <i c="5" l="1699319752210" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1698999207601" />
+    </e>
+    <e n="android.device.back.button">
+      <i c="1" l="1699141909356" />
+    </e>
+    <e n="android.device.overview.button">
+      <i c="1" l="1699141913419" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="3" l="1699141116407" />
+    </e>
+    <e n="android.emulator.extended.controls">
+      <i c="2" l="1699141089019" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1698999559425" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeleteAction">
+      <i c="1" l="1699139805952" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="2" l="1699141057180" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.EditDeviceAction">
+      <i c="6" l="1699141427629" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.upgrade.ProjectUpgradeNotification$1">
+      <i c="2" l="1699139950147" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowFactory$MoveToWindowAction">
+      <i c="2" l="1699142881482" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="1" l="1699140777399" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1699162998886" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1699140469935" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1699140447183" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="36449" l="1699323723179" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="24" l="1699139805152" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="6" l="1699319520440" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.TextEditorWithPreview$SingleChangeViewModeAction">
+      <i c="3" l="1699009386293" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1699819767736" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1699136881112" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="2" l="1699142877302" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="109" l="1699318571040" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="25" l="1699807524498" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$HideCurrentWidgetAction">
+      <i c="1" l="1698999890371" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="23" l="1699319759694" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="9" l="1699127967165" />
+    </e>
+    <e n="com.jetbrains.lang.dart.analyzer.DartAnalysisServerImpl$server_showMessageRequest$1$1">
+      <i c="1" l="1699807459282" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
+      <i c="4" l="1699010703670" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="2" l="1699320083383" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="74" l="1699182868239" />
+    </e>
+    <e n="flutter.NewProject">
+      <i c="3" l="1699807528486" />
+    </e>
+    <e n="flutter.NewProject.welcome">
+      <i c="2" l="1699128078772" />
+    </e>
+    <e n="io.flutter.actions.DeviceSelectorAction$SelectDeviceAction">
+      <i c="3" l="1699141887802" />
+    </e>
+    <e n="io.flutter.actions.OpenEmulatorAction">
+      <i c="15" l="1699137742233" />
+    </e>
+    <e n="io.flutter.actions.RestartFlutterDaemonAction">
+      <i c="4" l="1699142498133" />
+    </e>
+  </component>
+</application>

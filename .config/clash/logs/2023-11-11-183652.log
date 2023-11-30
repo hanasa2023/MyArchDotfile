@@ -1,0 +1,112 @@
+18:36:52 INF [Config] initial compatible provider name=Auto
+18:36:52 INF [Config] initial compatible provider name=Express
+18:36:52 INF [Config] initial compatible provider name=Scholar
+18:36:52 INF [Config] initial compatible provider name=Netflix
+18:36:52 INF [Config] initial compatible provider name=Auto-Failover
+18:36:52 INF [Config] initial compatible provider name=Auto-Edge
+18:36:52 INF [Config] initial compatible provider name=Auto-Fast
+18:36:52 INF [Config] initial compatible provider name=Proxy
+18:36:52 INF [Config] initial compatible provider name=Video
+18:36:52 INF [Config] initial compatible provider name=Steam
+18:36:52 INF [API] listening addr=127.0.0.1:40061
+18:36:52 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+18:36:52 INF [Config] initial compatible provider name=故障转移
+18:36:52 INF [Config] initial compatible provider name=自动选择
+18:36:52 INF [Config] initial compatible provider name=节点选择
+18:36:52 INF [DNS] server listening addr=127.0.0.1:8853
+18:36:54 INF [TCP] connected lAddr=127.0.0.1:60198 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港14]
+18:36:55 INF [TCP] connected lAddr=127.0.0.1:60204 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:36:55 INF [TCP] connected lAddr=127.0.0.1:60210 rAddr=ocsp.usertrust.com:80 mode=rule rule=Domain(ocsp.usertrust.com) proxy=节点选择[香港14]
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48380 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港14]
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48386 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港14]
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48400 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港14]
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48414 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港14]
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48408 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48442 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:36:58 INF [TCP] connected lAddr=127.0.0.1:48426 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:37:07 INF [TCP] connected lAddr=127.0.0.1:56324 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:37:07 INF [TCP] connected lAddr=127.0.0.1:56330 rAddr=flutter.github.io:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港06]
+18:37:07 INF [TCP] connected lAddr=127.0.0.1:56336 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:08 INF [TCP] connected lAddr=127.0.0.1:56342 rAddr=ocsp.digicert.com:80 mode=rule rule=DomainSuffix(digicert.com) proxy=节点选择[香港06]
+18:37:08 INF [TCP] connected lAddr=127.0.0.1:56354 rAddr=storage.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:37:08 INF [TCP] connected lAddr=127.0.0.1:56362 rAddr=dartpad.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:37:09 INF [TCP] connected lAddr=127.0.0.1:56372 rAddr=stable.api.dartpad.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56378 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56396 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56392 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56416 rAddr=ocsp2.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[香港06]
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56428 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+18:37:10 INF [TCP] connected lAddr=127.0.0.1:56406 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:11 INF [TCP] connected lAddr=127.0.0.1:56438 rAddr=ocsp.globalsign.com:80 mode=rule rule=DomainSuffix(globalsign.com) proxy=节点选择[香港06]
+18:37:23 INF [TCP] connected lAddr=127.0.0.1:41652 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:38 INF [TCP] connected lAddr=127.0.0.1:54796 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:39 INF [TCP] connected lAddr=127.0.0.1:54808 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=节点选择[香港06]
+18:37:43 INF [TCP] connected lAddr=127.0.0.1:54820 rAddr=s3.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54872 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54888 rAddr=storage.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54836 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54840 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54858 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54844 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54854 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:44 INF [TCP] connected lAddr=127.0.0.1:54852 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:49 INF [TCP] connected lAddr=127.0.0.1:53952 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:53 INF [TCP] connected lAddr=127.0.0.1:53964 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:53 INF [TCP] connected lAddr=127.0.0.1:53980 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:37:54 INF [TCP] connected lAddr=127.0.0.1:53996 rAddr=edgedl.me.gvt1.com:80 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:55 INF [TCP] connected lAddr=127.0.0.1:54004 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:55 INF [TCP] connected lAddr=127.0.0.1:54008 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:37:55 INF [TCP] connected lAddr=127.0.0.1:54024 rAddr=edgedl.me.gvt1.com:80 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:56 INF [TCP] connected lAddr=127.0.0.1:54028 rAddr=update.googleapis.com:80 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:56 INF [TCP] connected lAddr=127.0.0.1:54040 rAddr=edgedl.me.gvt1.com:80 mode=rule rule=Match() proxy=节点选择[香港06]
+18:37:56 INF [TCP] connected lAddr=127.0.0.1:54046 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:56 INF [TCP] connected lAddr=127.0.0.1:54052 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+18:37:56 INF [TCP] connected lAddr=127.0.0.1:48780 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+18:37:57 INF [TCP] connected lAddr=127.0.0.1:48784 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:16 INF [TCP] connected lAddr=127.0.0.1:41348 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:17 INF [TCP] connected lAddr=127.0.0.1:32930 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:17 INF [TCP] connected lAddr=127.0.0.1:32938 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:17 INF [TCP] connected lAddr=127.0.0.1:32952 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:17 INF [TCP] connected lAddr=127.0.0.1:32942 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:17 INF [TCP] connected lAddr=127.0.0.1:32948 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:38:18 INF [TCP] connected lAddr=127.0.0.1:32958 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+18:38:57 INF [TCP] connected lAddr=127.0.0.1:53536 rAddr=s3.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:42:48 INF [TCP] connected lAddr=127.0.0.1:56402 rAddr=s3.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+18:44:17 INF [TCP] connected lAddr=127.0.0.1:45704 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港06]
+19:57:14 INF [TCP] connected lAddr=127.0.0.1:55544 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港06]
+19:57:14 INF [TCP] connected lAddr=127.0.0.1:55546 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:17 INF [TCP] connected lAddr=127.0.0.1:58608 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:57:17 INF [TCP] connected lAddr=127.0.0.1:58604 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:57:18 INF [TCP] connected lAddr=127.0.0.1:58620 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:57:18 INF [TCP] connected lAddr=127.0.0.1:58636 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:57:29 INF [TCP] connected lAddr=127.0.0.1:34366 rAddr=musescore.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:30 INF [TCP] connected lAddr=127.0.0.1:34382 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34402 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34392 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34422 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34414 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34406 rAddr=track.ultimate-guitar.com:443 mode=rule rule=Match() proxy=节点选择[香港06]
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34438 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34440 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:57:31 INF [TCP] connected lAddr=127.0.0.1:34436 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+19:57:44 INF [TCP] connected lAddr=127.0.0.1:33432 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:58:03 INF [TCP] connected lAddr=127.0.0.1:40706 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:03 INF [TCP] connected lAddr=127.0.0.1:40722 rAddr=flutter.github.io:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港06]
+19:58:03 INF [TCP] connected lAddr=127.0.0.1:40734 rAddr=ocsp.digicert.com:80 mode=rule rule=DomainSuffix(digicert.com) proxy=节点选择[香港06]
+19:58:03 INF [TCP] connected lAddr=127.0.0.1:40744 rAddr=dartpad.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:03 INF [TCP] connected lAddr=127.0.0.1:40754 rAddr=storage.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:05 INF [TCP] connected lAddr=127.0.0.1:40770 rAddr=jwgl.hrbeu.edu.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:05 INF [TCP] connected lAddr=127.0.0.1:40774 rAddr=cas.hrbeu.edu.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:06 INF [TCP] connected lAddr=127.0.0.1:40788 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:06 INF [TCP] connected lAddr=127.0.0.1:41052 rAddr=res.hrbeu.edu.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:07 INF [TCP] connected lAddr=127.0.0.1:41054 rAddr=jwgl.hrbeu.edu.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+19:58:14 INF [TCP] connected lAddr=127.0.0.1:41060 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+19:58:15 INF [TCP] connected lAddr=127.0.0.1:41074 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+19:58:26 INF [TCP] connected lAddr=127.0.0.1:48988 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港06]
+20:00:01 INF [TCP] connected lAddr=127.0.0.1:54756 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+20:00:01 INF [TCP] connected lAddr=127.0.0.1:41074 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+20:06:47 INF [TCP] connected lAddr=127.0.0.1:33204 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[香港06]
+20:10:37 INF [TCP] connected lAddr=127.0.0.1:50532 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]
+20:30:24 INF [TCP] connected lAddr=127.0.0.1:38244 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+20:30:24 INF [TCP] connected lAddr=127.0.0.1:38252 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+20:52:54 INF [TCP] connected lAddr=127.0.0.1:52556 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[香港06]

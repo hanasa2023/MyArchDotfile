@@ -1,0 +1,153 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="helloworld" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Dart">
+      <summary usageCount="11" lastUsed="1699136959025" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1699128192611" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dart">
+      <summary usageCount="11" lastUsage="1699136959029" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1699128192613" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloworld" type="1abcf292:AndroidViewProjectNode" />
+              <item name="helloworld_android" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="1abcf292:AndroidViewProjectNode" />
+              <item name="helloworld_android" type="feadf853:AndroidModuleNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Flutter.main.dart" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49788362" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="App Quality Insights" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.3298611" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25026315" />
+      <window_info anchor="right" id="Running Devices" order="3" weight="0.25026315" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Running Devices</value>
+      <value>Device Manager</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="328" key="FileChooserDialogImpl" timestamp="1699137858690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="328" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1699137858690" />
+    <state width="1838" height="290" key="GridCell.Tab.0.bottom" timestamp="1699111238048">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1838" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1699111238048" />
+    <state width="1838" height="290" key="GridCell.Tab.0.center" timestamp="1699111238048">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1838" height="290" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1699111238048" />
+    <state width="1838" height="290" key="GridCell.Tab.0.left" timestamp="1699111238048">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1838" height="290" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1699111238048" />
+    <state width="1838" height="290" key="GridCell.Tab.0.right" timestamp="1699111238048">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1838" height="290" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1699111238048" />
+    <state x="454" y="205" key="SettingsEditor" timestamp="1699137818250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="607" y="306" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1699139291043" />
+    <state x="454" y="205" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1699137818250" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

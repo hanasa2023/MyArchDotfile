@@ -1,0 +1,23 @@
+/* style.css */
+@font-face{
+  font-family: 'PingFang-Bold';
+  src : url('./fonts/PingFang-Bold-2.ttf');
+}
+
+
+
+
+/* popup 窗口的大小 */
+html, body {
+  box-sizing: border-box;
+  font-family: "PingFang-Bold";
+}
+
+.popup-box {
+  /* width: 250px; */
+  /* height: 300px; */
+  padding: 20px;
+  margin: 0px;
+  background: #fafafa;
+  box-sizing: border-box;
+}

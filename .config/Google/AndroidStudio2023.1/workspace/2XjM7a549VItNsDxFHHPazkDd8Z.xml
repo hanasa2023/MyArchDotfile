@@ -1,0 +1,134 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="My Application" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="160">
+                <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              </editor-state>
+              <multi-preview-state selected="">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="7" lastUsed="1699140386798" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="7" lastUsage="1699140386804" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12447369" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="App Quality Insights" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32982984" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="7" weight="0.32993197" />
+      <window_info anchor="right" x="646" y="77" width="627" height="956" id="Device Manager 2" weight="0.23710527" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" x="135" y="45" width="472" height="923" id="Device Manager" order="2" type="FLOATING" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="3" weight="0.33026317" />
+      <window_info active="true" anchor="right" id="Running Devices" order="4" visible="true" weight="0.23710527" />
+      <unified_weights bottom="0.32993197" left="0.12447369" right="0.23710527" />
+    </layoutV2>
+    <recentWindows>
+      <value>Upgrade Assistant</value>
+      <value>Running Devices</value>
+      <value>Project</value>
+      <value>Device Manager 2</value>
+      <value>Assistant</value>
+      <value>Build</value>
+      <value>Device Manager</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="313" key="#Gradle" timestamp="1699139616009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="557" y="313" key="#Gradle/0.0.1920.1080@0.0.1920.1080" timestamp="1699139616009" />
+    <state x="702" y="406" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1699138374978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="406" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699138374978" />
+    <state x="737" y="297" key="FileChooserDialogImpl" timestamp="1699140414056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="297" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1699140414056" />
+    <state x="543" y="298" width="824" height="484" key="IDE.errors.dialog" timestamp="1699138520148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="298" width="824" height="484" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699138520148" />
+    <state x="454" y="205" key="SettingsEditor" timestamp="1699139768120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="205" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1699139768120" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="160">
+            <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,114 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="My Application" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="384">
+                <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="4" lastUsed="1699139286018" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="4" lastUsage="1699139286022" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124603175" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="App Quality Insights" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32982984" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" x="135" y="45" width="472" height="923" id="Device Manager" order="2" type="FLOATING" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="3" weight="0.25026315" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Device Manager</value>
+      <value>Project</value>
+      <value>Running Devices</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="406" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1699138374978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="406" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699138374978" />
+    <state x="737" y="297" key="FileChooserDialogImpl" timestamp="1699138343183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="297" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1699138343183" />
+    <state x="543" y="298" width="824" height="484" key="IDE.errors.dialog" timestamp="1699138520148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="298" width="824" height="484" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699138520148" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="384">
+            <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

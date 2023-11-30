@@ -1,0 +1,34 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="514" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="290" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="290" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="290" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="290" />
+  </component>
+  <component name="WindowManager">
+    <frame x="965" y="41" width="945" height="1029" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="737" y="291" width="446" height="529" key="#HTTP_Proxy" timestamp="1698985529257">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="291" width="446" height="529" key="#HTTP_Proxy/0.0.1920.1080" timestamp="1698985529257" />
+    <state x="748" y="328" key="FileChooserDialogImpl" timestamp="1699128085306">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="328" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1699128085306" />
+    <state x="1414" y="884" width="477" height="102" key="ProcessPopupWindow" timestamp="1699138539653">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1414" y="884" width="477" height="102" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1699138539653" />
+    <state x="959" y="531" width="945" height="1029" key="WELCOME_SCREEN" timestamp="1699128075182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="959" y="531" width="945" height="1029" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1699128075182" />
+    <state x="560" y="231" width="800" height="649" key="new project wizard" timestamp="1699128099372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="231" width="800" height="649" key="new project wizard/0.0.1920.1080" timestamp="1699128099372" />
+  </component>
+</application>

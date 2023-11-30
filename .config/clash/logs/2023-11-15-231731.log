@@ -1,0 +1,45 @@
+23:17:31 INF [Config] initial compatible provider name=Video
+23:17:31 INF [Config] initial compatible provider name=Auto-Failover
+23:17:31 INF [Config] initial compatible provider name=Proxy
+23:17:31 INF [Config] initial compatible provider name=Express
+23:17:31 INF [Config] initial compatible provider name=Steam
+23:17:31 INF [Config] initial compatible provider name=Netflix
+23:17:31 INF [Config] initial compatible provider name=Scholar
+23:17:31 INF [Config] initial compatible provider name=Auto-Edge
+23:17:31 INF [Config] initial compatible provider name=Auto-Fast
+23:17:31 INF [Config] initial compatible provider name=Auto
+23:17:31 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+23:17:31 INF [API] listening addr=127.0.0.1:44675
+23:17:31 INF [Config] initial compatible provider name=故障转移
+23:17:31 INF [Config] initial compatible provider name=自动选择
+23:17:31 INF [Config] initial compatible provider name=节点选择
+23:17:31 INF [DNS] server listening addr=127.0.0.1:8853
+23:18:23 INF [TCP] connected lAddr=127.0.0.1:59088 rAddr=downloads.vivaldi.com:443 mode=rule rule=DomainSuffix(vivaldi.com) proxy=节点选择[台湾08]
+23:18:26 INF [TCP] connected lAddr=127.0.0.1:44278 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[台湾08]
+23:18:26 INF [TCP] connected lAddr=127.0.0.1:44292 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=节点选择[台湾08]
+23:18:26 INF [TCP] connected lAddr=127.0.0.1:44310 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[台湾08]
+23:18:39 INF [TCP] connected lAddr=127.0.0.1:53946 rAddr=bugs.kde.org:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:40 INF [TCP] connected lAddr=127.0.0.1:53968 rAddr=space.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+23:18:40 INF [TCP] connected lAddr=127.0.0.1:53958 rAddr=www.bilibili.com:443 mode=rule rule=DomainSuffix(bilibili.com) proxy=DIRECT
+23:18:40 INF [TCP] connected lAddr=127.0.0.1:53994 rAddr=q.qq.com:443 mode=rule rule=DomainSuffix(qq.com) proxy=DIRECT
+23:18:40 INF [TCP] connected lAddr=127.0.0.1:53982 rAddr=api.flutter-io.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+23:18:40 INF [TCP] connected lAddr=127.0.0.1:54006 rAddr=kde.org:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:41 INF [TCP] connected lAddr=127.0.0.1:54012 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:44 INF [TCP] connected lAddr=127.0.0.1:46562 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:46 INF [TCP] connected lAddr=127.0.0.1:46576 rAddr=koishi.chat:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:47 INF [TCP] connected lAddr=127.0.0.1:46574 rAddr=search.koishi.chat:443 mode=rule rule=Match() proxy=节点选择[台湾08]
+23:18:52 INF [TCP] connected lAddr=127.0.0.1:46582 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[台湾08]
+23:19:23 INF [TCP] connected lAddr=127.0.0.1:54778 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=节点选择[台湾08]
+23:19:23 INF [TCP] connected lAddr=127.0.0.1:54790 rAddr=ocsp.pki.goog:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+23:19:41 INF [TCP] connected lAddr=127.0.0.1:42890 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:49 INF [TCP] connected lAddr=127.0.0.1:34490 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34496 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34510 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34534 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34512 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34522 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:54 INF [TCP] connected lAddr=127.0.0.1:34538 rAddr=camo.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:55 INF [TCP] connected lAddr=127.0.0.1:51548 rAddr=alive.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:55 INF [TCP] connected lAddr=127.0.0.1:51552 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:55 INF [TCP] connected lAddr=127.0.0.1:51564 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]
+23:19:56 INF [TCP] connected lAddr=127.0.0.1:51566 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[台湾08]

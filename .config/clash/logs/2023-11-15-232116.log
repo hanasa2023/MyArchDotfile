@@ -1,0 +1,23 @@
+23:21:16 INF [Config] initial compatible provider name=Video
+23:21:16 INF [Config] initial compatible provider name=Netflix
+23:21:16 INF [Config] initial compatible provider name=Scholar
+23:21:16 INF [Config] initial compatible provider name=Auto-Failover
+23:21:16 INF [Config] initial compatible provider name=Auto-Fast
+23:21:16 INF [Config] initial compatible provider name=Auto
+23:21:16 INF [Config] initial compatible provider name=Express
+23:21:16 INF [Config] initial compatible provider name=Proxy
+23:21:16 INF [Config] initial compatible provider name=Steam
+23:21:16 INF [Config] initial compatible provider name=Auto-Edge
+23:21:16 INF [API] listening addr=127.0.0.1:37647
+23:21:16 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+23:21:16 INF [Config] initial compatible provider name=故障转移
+23:21:16 INF [Config] initial compatible provider name=自动选择
+23:21:16 INF [Config] initial compatible provider name=节点选择
+23:21:16 INF [DNS] server listening addr=127.0.0.1:8853
+23:22:38 INF [TCP] connected lAddr=127.0.0.1:44288 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港10]
+23:22:47 INF [TCP] connected lAddr=127.0.0.1:37460 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港10]
+23:22:53 INF [TCP] connected lAddr=127.0.0.1:44128 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港10]
+23:23:17 INF [TCP] connected lAddr=127.0.0.1:59892 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港10]
+23:23:22 INF [TCP] connected lAddr=127.0.0.1:58124 rAddr=aur.archlinux.org:443 mode=rule rule=Match() proxy=节点选择[香港10]
+23:23:32 INF [TCP] connected lAddr=127.0.0.1:45738 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港10]
+23:23:33 INF [TCP] connected lAddr=127.0.0.1:45754 rAddr=objects.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=节点选择[香港10]
